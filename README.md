@@ -3,7 +3,7 @@
 </div>
 
 # Examples Gallery | Unbox AI 
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Unbox:%20The%20debugging%20workspace%20for%20ML%20&url=https://github.com/unboxai&via=unbox_ai&hashtags=ml, mlops) 
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Unbox:%20The%20debugging%20workspace%20for%20ML%20&url=https://github.com/unboxai&via=unbox_ai&hashtags=mlops)
 [![PyPI Latest Release](https://img.shields.io/pypi/v/unboxapi.svg)](https://pypi.org/project/unboxapi/)
 [![downloads](https://pepy.tech/badge/unboxapi)](https://pepy.tech/project/unboxapi)
 
