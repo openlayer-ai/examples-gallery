@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="docs/source/_static/logo-blue-text.svg"><br>
+  <img src="logo-blue-text.svg"><br>
 </div>
 
 # Examples Gallery | Unbox AI 
