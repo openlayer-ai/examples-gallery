@@ -1,3 +1,7 @@
+<div align="left">
+   <img src="_static/logo-blue-text.svg"><br>
+ </div>
+
 # Examples Gallery | Unbox AI
 
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Unbox:%20The%20debugging%20workspace%20for%20ML%20&url=https://github.com/unboxai&via=unbox_ai&hashtags=mlops)
@@ -13,7 +17,7 @@ This repository fulfils two main goals:
 1. It demonstrates our Python API in action
 2. It provides simple examples that may be similar to the problems you are solving at your organization.
 
-We take privacy & security very seriously and understand that your models and datasets might contain sensitive or proprietary information. [Reach out to us](mailto:founders@unbox.ai) if you are interested in our on-premise solution.
+We take privacy & security very seriously and understand that your models and datasets might contain sensitive or proprietary information. [Reach out to us](mailto:accounts@unbox.ai) if you are interested in our on-premise solution.
 
 In the meantime, pick a task, model framework or problem that shares similarities with something you are working on and start exploring Unbox right away!
 
