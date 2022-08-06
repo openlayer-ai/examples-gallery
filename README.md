@@ -15,7 +15,7 @@ This repository contains a gallery of sample notebooks illustrating the process 
 This repository fulfils two main goals:
 
 1. It demonstrates our Python API in action
-2. It provides simple examples that may be similar to the problems you are solving at your organization .
+2. It provides simple examples that may be similar to the problems you are solving at your organization.
 
 We take privacy & security very seriously and understand that your models and datasets might contain sensitive or proprietary information. [Reach out to us](mailto:founders@unbox.ai) if you are interested in our on-premise solution.
 
